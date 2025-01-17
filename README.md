@@ -1,6 +1,6 @@
 <div align="center">  
 <h1 align="center">  
- <img src="Img/Fundus_-_diabetic_retinopathy.png" alt="App Icon" width="300">  
+ <img src="Img/Fundus_-_diabetic_retinopathy.png" alt="App Icon" width="200">  
 <br>Retinopathy-Detection-using-Transfer-Learning</h1>  
 <h3>Developed with the packages and tools below 🛠️</h3>  
 <h3>VGG16, Resnet, Efficientnet, Densenet121, Ensemble Learning, Self Attention ⚙️</h3>  

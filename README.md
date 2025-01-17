@@ -15,8 +15,11 @@
 <img src="https://img.shields.io/github/license/Abu-Taher-web/Retinopathy-Detection-using-Transfer-Learning?style=for-the-badge&color=5D6D7E" alt="GitHub license" />  
 <img src="https://img.shields.io/github/last-commit/Abu-Taher-web/Retinopathy-Detection-using-Transfer-Learning?style=for-the-badge&color=5D6D7E" alt="git-last-commit" />  
 <img src="https://img.shields.io/github/commit-activity/m/Abu-Taher-web/Retinopathy-Detection-using-Transfer-Learning?style=for-the-badge&color=5D6D7E" alt="GitHub commit activity" />  
-<img src="https://img.shields.io/github/languages/top/Abu-Taher-web/Retinopathy-Detection-using-Transfer-Learning?style=for-the-badge&color=5D6D7E" alt="GitHub top language" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Taher-web&repo=Retinopathy-Detection-using-Transfer-Learning&layout=compact" alt="Top Languages" />  
+<img src="https://img.shields.io/github/languages/top/Abu-Taher-web/Retinopathy-Detection-using-Transfer-Learning?style=for-the-badge&color=5D6D7E" alt="GitHub top language" />
+<p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Taher-web&repo=Retinopathy-Detection-using-Transfer-Learning&layout=compact" alt="Top Languages" /> 
+</p>
+ 
 </div>  
 
 
